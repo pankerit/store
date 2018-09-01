@@ -1,2 +1,0 @@
-# store
-My shoes store
